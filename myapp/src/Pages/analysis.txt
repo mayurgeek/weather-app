@@ -1,0 +1,55 @@
+analysis                
+
+1. make a new folder
+
+DESIGN 
+
+4. design form
+   4.1  
+   4.2
+
+
+
+2. create a react project
+3. install dependenct
+
+
+5. design card
+
+
+6. fill the form and click on button
+7. render the card on submit button
+
+test
+-------------------------------------------------------
+
+make point and sub points 
+create desgin on paint
+
+----------------------------------------------------------
+
+
+
+proj-st-Id-08-07-21
+        FrontEnd
+            ReactApp
+
+        POC
+            poc_of_card
+            poc_of_form
+
+        DOCS
+            IMAGE
+            WBS.TXT
+        
+
+       
+
+
+
+
+
+
+
+
+
